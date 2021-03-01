@@ -1,0 +1,8 @@
+.total-player-section{
+    display:flex
+}
+.player-section{
+    width:65%;
+    border-right: 1px solid lightgray;
+    
+}

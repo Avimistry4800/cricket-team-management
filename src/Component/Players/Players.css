@@ -1,0 +1,27 @@
+.player-section{
+    display:flex;
+    flex-wrap: wrap;
+    float: left;
+}
+.player-profile{
+    border: 1px solid lightgray;
+    width:280px;
+    height: 500px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    background-color:rgba(39, 201, 219, 0.1) ;
+    
+}
+.player-profile img{
+margin: 20px;
+border-radius: 20px;
+height:200px;
+}
+.add-remove-btn{
+    width:180px;
+    height:40px;
+    border-radius:8px;
+    background-color: rgb(114, 209, 243);
+    
+}
